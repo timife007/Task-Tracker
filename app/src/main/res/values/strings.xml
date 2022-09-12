@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Tracker</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="title_test">Contact the CEO of Decagon</string>
+    <string name="sort">Sort</string>
+    <string name="calender_icon">Calender</string>
+    <string name="edit_task_title_test">I would like to take this opportunity to thank you for providing me with this golden opportunity</string>
+</resources>
