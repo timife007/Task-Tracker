@@ -59,7 +59,6 @@ fun TaskScreen(
                     )
                 }
                 is TaskViewModel.UiEvent.SaveTask ->{
-
                 }
             }
 
