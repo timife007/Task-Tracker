@@ -50,6 +50,7 @@ fun TaskScreen(
     val listState = viewModel.listState
     val editState = viewModel.editTaskState
 
+
     LaunchedEffect(key1 = true){
         viewModel.eventFlow.collectLatest { event ->
             when(event){
