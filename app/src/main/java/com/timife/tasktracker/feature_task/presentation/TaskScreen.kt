@@ -142,8 +142,7 @@ fun TaskScreen(
                     }
                 }
             }
-            items(listState.value.taskList ) { taskItem ->
-                TaskListItem(
+            items(listState.value.taskList ) { taskItem -> TaskListItem(
                     modifier = modifier.background(Color.LightGray),
                     onCheckChange = { checked ->
                     },
