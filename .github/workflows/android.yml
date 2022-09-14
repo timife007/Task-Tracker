@@ -77,7 +77,7 @@ jobs:
           danger_file: 'Dangerfile'
           danger_id: 'danger-pr'
         env:
-          DANGER_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DANGER_GITHUB_API_TOKEN: ${{ secrets.GIT_TOKEN }}
 
   lint_job:
     name: Lint
