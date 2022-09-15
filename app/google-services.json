@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325005148882",
+    "project_id": "task-tracker-41488",
+    "storage_bucket": "task-tracker-41488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325005148882:android:bf98eafd318d13727da30b",
+        "android_client_info": {
+          "package_name": "com.timife.tasktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325005148882-l9uaicqlhn0uvi9l94f3l9r5o7hci20f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoFmKmYIaQGvi8qT-g7gLq66RR6-x6Iis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325005148882-l9uaicqlhn0uvi9l94f3l9r5o7hci20f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
